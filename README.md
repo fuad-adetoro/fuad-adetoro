@@ -4,7 +4,7 @@
 
 I am an iOS developer passionate about all things iOS, I develop my apps using **Swift** & **SwiftUI**.
 
-I've developed a range of apps using various different technologies, I was also once a web developer.
+I've developed a wide range of apps using various different technologies, I was also once a web developer.
 
 🔭 I'm currently working at <a href="https://www.inhaus.ai">InHaus.AI</a> making awesome new technology! I also have a few side projects I intend on releasing in the near future. Here is one <a href="https://github.com/fuad-adetoro/OnlyFeet">"I'll rename this later"</a>
 
