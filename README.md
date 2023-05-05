@@ -4,9 +4,7 @@
 
 I am an iOS developer passionate about all things iOS, I develop my apps using **Swift** & **SwiftUI**.
 
-I've developed a wide range of apps using various different technologies, I was also once a web developer.
-
-🔭 I'm currently working at <a href="https://www.candyspace.com">Candyspace</a> making awesome new technology, that is loved by millions!</a>
+I've developed a wide range of apps using various different technologies.
 
 ---
 
